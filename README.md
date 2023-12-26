@@ -2,7 +2,7 @@
 
 This code provides a PyTorch implementation and pretrained models for the paper. [link to be added]
 
-The training and finetuning of SwAV model mostly follow the original paper of [SwAV](https://github.com/facebookresearch/swav), with some adjustments in the reading of dataset to improve I/O flexibility.
+The training and finetuning of SwAV model mostly follow the original paper of [SwAV](https://github.com/facebookresearch/swav), with some adjustments in the reading of dataset to improve I/O flexibility. Please follow the original paper to get the instructions.
 
 The 'Huifu' app mentioned in the paper can be found in Wechat app by searching '慧肤互联网医院'.
 
